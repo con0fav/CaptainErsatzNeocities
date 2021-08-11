@@ -1,0 +1,26 @@
+body {
+    background-color: #06E8D5;
+    color: #313030;
+}
+
+header strong {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    background-color: #F455FF;
+}
+
+nav a {
+    padding: 2%;
+}
+
+#bio {
+    background-color: #F455FF;
+    color: #313030;
+}
+
+#vapor {
+    color:#06E8D5;
+}
