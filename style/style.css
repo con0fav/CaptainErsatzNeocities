@@ -1,6 +1,6 @@
 body {
-    background-color: #06E8D5;
-    color: #313030;
+    background-color: #257999;
+    color: #EA7AD0;
 }
 
 header strong {
@@ -9,7 +9,7 @@ header strong {
 
 nav {
     text-align: center;
-    background-color: #F455FF;
+    background-color: #09C5FD;
 }
 
 nav a {
@@ -17,10 +17,10 @@ nav a {
 }
 
 #bio {
-    background-color: #F455FF;
+    background-color: #7E56DA;
     color: #313030;
 }
 
 #vapor {
-    color:#06E8D5;
+    color:#49D2BF;
 }
